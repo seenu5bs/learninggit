@@ -1,3 +1,7 @@
 branching happining
+<<<<<<< HEAD
 first time failed
 testing rebase functionality
+=======
+testing rebase functionality 2 time
+>>>>>>> b566842 (locall rebase commited)
